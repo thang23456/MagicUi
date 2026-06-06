@@ -1,5 +1,5 @@
 ## Tutorial MagicUi Use Made by Magic_Master Thank you https://github.com/notzanocoddz4 for the sample
-local Library = loadstring(game:HttpGet("https://link-raw-cua-ban.com/library.lua"))
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/thang23456/MagicUi/refs/heads/main/MagicUi.luau"))
 local Window = Library:CreateWindow({
     Title = "MagicHub | Doors",
     SubName = "V1",
